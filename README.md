@@ -1,4 +1,5 @@
 # GoblinPrompt 🧙‍♂️
+![images](https://github.com/user-attachments/assets/e3c6e431-f851-43b4-9ce6-f5bd2048c568)
 
 Welcome to **GoblinPrompt**—a mischievous take on your classic Unix shell, designed by goblins, for goblins! Inspired by the ancient rules of goblin society, this little shell does the basics, with a twist of goblin wisdom. From command parsing to piping and I/O redirection, GoblinPrompt has it all, but don't expect it to behave quite like human shells... goblins have rules, and they mean business!
 
@@ -56,3 +57,7 @@ GoblinPrompt> ls | grep "goblin" > goblin_files.txt
 GoblinPrompt> wc -l < goblin_files.txt
 ```
 Basically, any Unix-like command can be used in GoblinPrompt, with a dash of goblin flair. Explore and have fun, but remember the goblin rules!
+
+<img width="833" alt="截圖 2024-11-06 上午11 10 36" src="https://github.com/user-attachments/assets/8175deef-f53f-4cde-8273-33219986afcc">
+
+
