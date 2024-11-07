@@ -1,4 +1,6 @@
 # GoblinPrompt 🧙‍♂️
+### Continuous Development... 🛠️
+
 ![images](https://github.com/user-attachments/assets/e3c6e431-f851-43b4-9ce6-f5bd2048c568)
 
 Welcome to **GoblinPrompt**—a mischievous take on your classic Unix shell, designed by goblins, for goblins! Inspired by the ancient rules of goblin society, this little shell does the basics, with a twist of goblin wisdom. From command parsing to piping and I/O redirection, GoblinPrompt has it all, but don't expect it to behave quite like human shells... goblins have rules, and they mean business!
